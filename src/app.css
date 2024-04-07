@@ -1,0 +1,18 @@
+.tag {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 8px;
+}
+
+.due-date {
+    background-color: #4caf50;
+    color: #fff;
+}
+
+.priority {
+    background-color: #ff9800;
+    color: #fff;
+}
